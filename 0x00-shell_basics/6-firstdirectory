@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p tmp && touch tmp/my_first_directory
+mkpath tmp/my_first_directory
