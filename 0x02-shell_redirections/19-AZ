@@ -1,0 +1,2 @@
+#!/bin/bash
+echo ABc | tr AC Ze
